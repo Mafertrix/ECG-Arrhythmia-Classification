@@ -5,6 +5,10 @@ Comparative study of 4 ML models (Logistic Regression, Random Forest,
 MLP, Transformer) for automatic classification of 5 cardiac arrhythmia 
 types using the MIT-BIH Arrhythmia Database.
 
+## Pipeline
+
+![Pipeline](https://github.com/Mafertrix/ECG-Arrhythmia-Classification/blob/650450b2865be04b9ef4ba424b14a4c55af36108/Pipeline.png)
+
 **Best model:** Random Forest — 95.6% accuracy
 
 ## Dataset
