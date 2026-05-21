@@ -23,7 +23,7 @@ MIT-BIH Arrhythmia Database (Kaggle version)
 2. Enable GPU: Runtime → Change runtime type → GPU T4
 3. Run all cells (Ctrl + F9)
 4. The notebook auto-downloads the dataset — no manual upload needed
-5. For the demo: upload any CSV file with 187 ECG values
+5. For the demo: upload any CSV file with 187 ECG values (2 samples added in repository)
 
 ## Results
 | Model                 | Accuracy | F1 Macro | Loss   |
