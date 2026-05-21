@@ -34,5 +34,5 @@ MIT-BIH Arrhythmia Database (Kaggle version)
 | Transformer (100 ep.) |  79.9%   |  58.8%   |  N/A   |
 
 ## Course
-ECBI1034 Artificial Intelligence — Yachay Tech — 2026
+Artificial Intelligence — Yachay Tech — 2026
 Instructor: Jonathan Cruz
