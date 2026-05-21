@@ -29,6 +29,8 @@ MIT-BIH Arrhythmia Database (Kaggle version)
 4. The notebook auto-downloads the dataset — no manual upload needed
 5. For the demo: upload any CSV file with 187 ECG values (2 samples added in repository)
 
+![Flowchart](https://github.com/Mafertrix/ECG-Arrhythmia-Classification/blob/8da2f0425583408ab501053061211fdfbdbdebf4/Flowchart.png)
+
 ## Results
 | Model                 | Accuracy | F1 Macro | Loss   |
 |-----------------------|----------|----------|--------|
