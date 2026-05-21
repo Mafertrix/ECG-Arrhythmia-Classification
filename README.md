@@ -39,6 +39,8 @@ MIT-BIH Arrhythmia Database (Kaggle version)
 | MLP                   |  93.3%   |  77.7%   | 0.2487 |
 | Transformer (100 ep.) |  79.9%   |  58.8%   |  N/A   |
 
+![Confusion Matrix](https://github.com/Mafertrix/ECG-Arrhythmia-Classification/blob/19d422097fb53e0705a7a670082855b2cd335385/Confusion%20Matrix.png)
+
 ## Course
 Artificial Intelligence — Yachay Tech — 2026
 Instructor: Jonathan Cruz
